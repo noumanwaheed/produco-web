@@ -6,6 +6,7 @@
 
 ```markdown
 Technologies that have been used while developing the project.
+- SOLR 7.3.0
 - PHP 7.1
 - MySQL 5.7
 
